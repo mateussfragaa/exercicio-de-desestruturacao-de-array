@@ -1,0 +1,1 @@
+# exercicio-de-desestruturacao-de-array
